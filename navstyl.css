@@ -1,4 +1,14 @@
+body, h1, h3 {
+    font-family: Arial;
+    background-color: aqua;
+}
 nav {
     margin-top: 20;
     margin-bottom: 20;
+    margin-left: 20;
+    background-color: cadetblue;
+}
+a {
+    background-color: aquamarine;
+    font-family: Arial;
 }
