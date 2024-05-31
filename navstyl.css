@@ -23,3 +23,7 @@ nav {
     background-color: chocolate;
     color: antiquewhite;
 }
+div {
+    background-color: bisque;
+    border-radius: 5px;
+}
