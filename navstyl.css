@@ -10,7 +10,7 @@ nav {
     border-radius: 10px;
     background-color: cadetblue;
 }
-a {
+.navbut a {
     background-color: aquamarine;
     font-family: Arial;
     margin: 10px;
@@ -18,4 +18,8 @@ a {
     border-radius: 10px;
     text-decoration: unset;
     color: black;
+}
+.navbut a:hover {
+    background-color: chocolate;
+    color: antiquewhite;
 }
